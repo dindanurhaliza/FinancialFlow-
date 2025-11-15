@@ -90,13 +90,21 @@ Aplikasi ini dibuat untuk:
 # 📂 Struktur Proyek (Contoh)
 
 /FinancialFlow
+
 │── /lib
+
 │   ├── main.dart
+
 │   ├── /screens
+
 │   ├── /models
+
 │   ├── /services
+
 │── /assets
+
 │── /docs
+
 │── README.md
 
 
